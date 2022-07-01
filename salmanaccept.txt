@@ -1,0 +1,69 @@
+osama
+pani chahiye
+Time: 3 hrs
+Bill: 900 PKR
+
+osama
+kuch bhi
+Time: 5 hrs
+Bill: 1500 PKR
+osama
+kuch bhi
+Time: 5 hrs
+Bill: 1500 PKR
+
+osama
+ok
+Time: 3 hrs
+Bill: 900 PKR
+
+osama
+ww
+Time: 4 hrs
+Bill: 1200 PKR
+
+osama
+eee
+Time: 5 hrs
+Bill: 1500 PKR
+
+osama
+6
+Time: 6 hrs
+Bill: 1800 PKR
+
+osama
+rr
+Time: 5 hrs
+Bill: 1500 PKR
+
+osama
+eee
+Time: 9 hrs
+Bill: 2700 PKR
+
+osama
+qwerty
+Time: 10 hrs
+Bill: 3000 PKR
+
+osama
+ww
+Time: 10 hrs
+Bill: 3000 PKR
+
+osama
+qq
+Time: 2 hrs
+Bill: 600 PKR
+
+osama
+ee
+Time: 4 hrs
+Bill: 1200 PKR
+
+osama
+qqq
+Time: 8 hrs
+Bill: 2400 PKR
+
